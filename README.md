@@ -2,7 +2,7 @@
 
 I have copied StyleGAN3's conv2D_gradfix.py and grid_sample_gradfix.py into this repo so we can still train the model using Colab's GPU's. 
 
-## [Here you can find a notebook] (https://colab.research.google.com/drive/1PpeFRLjZAr9gcSKFBFK4heyGUSkfhFZU?usp=sharing) based on Jeff Heaton's notebook where some minor fixes have been made using this StyleGAN2-ADA-PT fork. 
+## [Here you can find a notebook](https://colab.research.google.com/drive/1PpeFRLjZAr9gcSKFBFK4heyGUSkfhFZU?usp=sharing) based on Jeff Heaton's notebook where some minor fixes have been made using this StyleGAN2-ADA-PT fork. 
 
 
 
