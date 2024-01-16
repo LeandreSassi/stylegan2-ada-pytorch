@@ -1,3 +1,6 @@
+# This is a fix of Nvidia's StyleGAN2-ADA-Pytorch where I have copied StyleGAN3's conv2D_gradfix.py and grid_sample_gradfix.py into this repo so we can still train the model using Colab's GPU's. 
+
+
 ## StyleGAN2-ADA &mdash; Official PyTorch implementation
 
 ![Teaser image](./docs/stylegan2-ada-teaser-1024x252.png)
